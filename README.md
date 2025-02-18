@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>안녕하세요! 👋 저는 민영입니다</h1>
-  <h3>열정적인 개발자를 꿈꾸는 학습자입니다</h3>
+  <h1>안녕하세요! 👋 저는 최민영입니다</h1>
 </div>
 
 ### 🛠 기술 스택
@@ -47,9 +46,3 @@
 - GitHub: [https://github.com/Minch13r]
 - Email: [0414minyoung@naver.com]
 - Blog: [https://minch13r.tistory.com/]
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
