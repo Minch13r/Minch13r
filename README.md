@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>안녕하세요!  저는 최민영입니다</h1>
-</div>
-
 ### 🛠 기술 스택
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
