@@ -4,20 +4,25 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+요청하신 MariaDB, Oracle, React, TypeScript, Node.js를 추가했습니다! 😊 
+기술 스택이 더욱 풍성해졌네요! 💪
 ### 🌱 현재 학습 중인 분야
-- 인공지능과 딥러닝
-- 데이터 전처리 및 모델 최적화
 - Spring Boot를 활용한 백엔드 개발
 - REST API 설계 및 구현
 - AWS 클라우드 서비스
-- 데이터베이스 SQL 최적화
+- 데이터베이스 SQL 최적화 (MYSQL, MARIADB, ORACLE)
 - Docker 컨테이너화 및 운영
 - React를 활용한 프론트엔드 개발
 
@@ -28,6 +33,7 @@
 - 데이터베이스 설계 및 최적화
 - 시스템 아키텍처
 - 메모리 관리 및 성능 최적화
+- REST API
 - 사용자 친화적 UI/UX
 
 ### 📚 학습 목표
