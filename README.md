@@ -14,8 +14,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-요청하신 MariaDB, Oracle, React, TypeScript, Node.js를 추가했습니다! 😊 
-기술 스택이 더욱 풍성해졌네요! 💪
 ### 🌱 현재 학습 중인 분야
 - Spring Boot를 활용한 백엔드 개발
 - REST API 설계 및 구현
