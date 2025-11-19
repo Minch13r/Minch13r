@@ -55,6 +55,17 @@
 
 ---
 
+## 📂 프로젝트 포트폴리오
+
+### 🟢 진행 중 (In Progress)
+* [전국 컨텐츠 모음 플랫폼]: [[프로젝트 GitHub 레포지토리 링크](https://github.com/Happy-Friends-Develop)]
+
+### 🔵 완료 (Completed)
+* [Computer Vision 기술을 활용한 수어 학습 사이트]: [[프로젝트 GitHub 레포지토리 링크](https://github.com/SignLanguage-P)]
+* [동네친구 찾기]: [[프로젝트 GitHub 레포지토리 링크](https://github.com/KiNextLevel)]
+
+---
+
 ##  Contact
 
 * **GitHub:** [https://github.com/Minch13r]
