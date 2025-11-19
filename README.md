@@ -29,7 +29,7 @@
 
 * **Backend & API:** Spring Boot 기반의 **백엔드 개발** 및 효율적인 **REST API** 설계
 * **Performance:** 대용량 데이터 처리를 위한 **Spring Batch** 및 **SQL 최적화** 능력 강화
-* **Traffic Optimization:** **Redis**와 **NoSQL**을 활용한 캐싱 및 트래픽 최적화
+* **Traffic :** **Redis**와 **NoSQL**을 활용한 캐싱 및 트래픽 최적화
 * **DevOps:** **AWS** 클라우드 서비스 이해와 **Docker** 컨테이너 환경 구축 및 운영
 * **Frontend:** **React**를 활용한 사용자 친화적 UI/UX 구현
 
