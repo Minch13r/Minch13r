@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀현재 집중 학습 분야
+## 현재 학습 분야
 
 * **Backend & API:** Spring Boot 기반의 **백엔드 개발** 및 효율적인 **REST API** 설계
 * **Performance:** 대용량 데이터 처리를 위한 **Spring Batch** 및 **SQL 최적화** 능력 강화
